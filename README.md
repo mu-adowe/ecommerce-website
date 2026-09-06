@@ -3,12 +3,20 @@
 ## Overview
 Rustys is a full-stack PHP project designed as an e-commerce platform for selling goods. This is a prototype and should not be used in production.
 
+## Live Demo
+
+🌐 [View the website](https://rustys.epizy.com)
+> [!WARNING]
+> Do not clone this repo. it will not work locally.
+
 ### Prerequisites
 - PHP 7.4 or higher
 - MySQL 5.7 or higher
 - **Windows:** Windows 10/11 (64-bit)
 - **Linux:** Any 64-bit distribution (Ubuntu, Fedora, etc.)
 - **macOS:** macOS 10.6 or later
+
+##Installation
 
 ### Windows
 
@@ -63,3 +71,4 @@ You should see the XAMPP dashboard. To access phpMyAdmin:
 ```
 http://localhost/phpmyadmin
 ```
+
